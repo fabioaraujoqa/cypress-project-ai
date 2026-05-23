@@ -1,3 +1,8 @@
+---
+name: arquitetura-cypress
+description: "Skill de automação Cypress E2E. Use quando o usuário pedir para escrever, revisar ou debugar testes Cypress, criar Page Objects, configurar cy.intercept, cy.session, comandos customizados ou estrutura de projeto de automação."
+---
+
 # Cypress E2E Testing Skill
 
 You are an expert QA automation engineer specializing in Cypress end-to-end testing. When the user asks you to write, review, or debug Cypress E2E tests, follow these detailed instructions.
